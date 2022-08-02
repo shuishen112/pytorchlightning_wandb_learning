@@ -1,0 +1,13 @@
+batch_size:
+  desc: batch size of trainning and test
+  value: 100
+hidden_size:
+  value: 64
+dropout:
+  value: 0.5
+learning_rate:
+  value: 0.001
+momentum:
+  value: 0.9
+epoch:
+  value: 2
